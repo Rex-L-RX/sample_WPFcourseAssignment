@@ -1,0 +1,100 @@
+C:\Users\xhuang9\Desktop\assignment2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.g.cs
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.baml
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+P:\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.g.cs
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.baml
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\MySql.Data.dll
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.g.cs
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.baml
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+I:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\bin\Debug\MySql.Data.dll
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.g.cs
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\App.baml
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+J:\Assignment 2\KIT506Assignment2(BACKUP2)\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\MySql.Data.dll
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.baml
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+E:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+E:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.g.cs
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.baml
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache

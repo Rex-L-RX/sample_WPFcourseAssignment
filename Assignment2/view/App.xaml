@@ -1,0 +1,17 @@
+﻿<Application x:Class="Assignment2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Assignment2"
+             xmlns:Model="clr-namespace:Model"
+             xmlns:Controller="clr-namespace:Controller"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Controller:ResearcherController x:Key="ResearcherController"/>
+        <ObjectDataProvider x:Key="researcherList"
+                            ObjectInstance="{StaticResource ResearcherController}"
+                            MethodName="GetViewableList">
+        </ObjectDataProvider>
+         
+    </Application.Resources>
+</Application>

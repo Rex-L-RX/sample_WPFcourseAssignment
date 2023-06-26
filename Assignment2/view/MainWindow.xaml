@@ -1,0 +1,168 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:View"         
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="View.MainWindow"         
+        Title="MainWindow" Loaded="Window_loaded" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Background="White" Foreground="#FF833E3E" Width="1594" Height="879">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+        <Grid DataContext="{Binding Source={StaticResource researcherList}}" Width="1576">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+                <RowDefinition Height="0*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="409*"/>
+                <ColumnDefinition Width="578*"/>
+                <ColumnDefinition Width="599*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel x:Name="ResearchPanel" Orientation="Vertical" Grid.Column="0" Grid.Row="1" >
+                <GroupBox Header="Researcher List" Margin="0,0,32,0" >
+                    <StackPanel Margin="0,0,28,0">
+                        <local:Usercontrol ScrollViewer.HorizontalScrollBarVisibility="Auto" Margin="0,0,-30,0" Width="367"/>
+                    </StackPanel>
+                </GroupBox>
+                <ListBox x:Name="listbox_Researcher" ItemsSource="{Binding Mode=OneWay}" SelectionChanged="ListBox_SelectionChanged" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}" ScrollViewer.CanContentScroll="False" Height="230" Margin="10,0,32,0"/>
+
+            </StackPanel>
+            <Border BorderBrush="#00000000" BorderThickness="1" HorizontalAlignment="Left" Margin="25,0,0,539" VerticalAlignment="Bottom" Width="88" Grid.Column="2" Grid.Row="1" Height="2">
+
+            </Border>
+            <StackPanel x:Name="DetialsPanel" Grid.Column="1" HorizontalAlignment="Left" Width="549" Margin="19,1,0,10" Grid.Row="1" Grid.RowSpan="1">
+                <StackPanel Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Width="227">
+                    <Label Content="Name:"/>
+                    <Label Content="{Binding Name}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="30" Margin="0,0,221,0">
+                    <Label Content="Title:"/>
+                    <Label Content="{Binding Title}"/>
+                </StackPanel>
+
+
+
+                <StackPanel Orientation="Horizontal" Height="30">
+                    <Label Content="Campus:"/>
+                    <Label Content="{Binding Campus}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="30">
+                    <Label Content="Unit:"/>
+                    <Label Content="{Binding Unit}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="30">
+                    <Label Content="Email:"/>
+                    <Label Content="{Binding Email}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="30">
+                    <Label Content="Current Job:" VerticalAlignment="Top"/>
+                    <Label Content="{Binding GetCurrentJobTitle}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="30">
+                    <Label Content="Commenced With Insititution:" Height="30" VerticalAlignment="Top"/>
+                    <Label Content="{Binding StartDate}" ContentStringFormat="dd/MM/yyy"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="30">
+                    <Label Content="Commenced Current Position:"/>
+                    <Label Content="{Binding CurrentDate}" ContentStringFormat="dd/MM/yyy"/>
+                </StackPanel>
+                <Label Content="Previous Position:" Height="30"/>
+                <ListBox Height="55" Margin="0,5" Width="405" BorderBrush="Black" ItemsSource="{Binding Position}" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}"/>
+                <StackPanel Orientation="Horizontal"  Height="30" Margin="0,5,-25,5" HorizontalAlignment="Left" Width="430">
+                    <Label Content="Tenure:" Width="49"/>
+                    <Label Content="{Binding Tenure}" ContentStringFormat="{}{0:0.0} years" Width="100"/>
+                    <Label Content="Publication: " Width="120"/>
+                    <Label Content="{Binding PublicationCount}" Width="30"/>
+                    <Button Content="Details" HorizontalAlignment="Left" Background="{DynamicResource {x:Static SystemColors.ScrollBarBrushKey}}" Margin="0,5,0,0" BorderBrush="Black" Width="87" Click="Button_Click_2" Height="20" VerticalAlignment="Top" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal"  Height="30">
+                    <Label Content="3-Year Avg:" Width="80"/>
+                    <Label Content="{Binding ThreeYearAverage}" ContentStringFormat="{}{0:0.0}" Width="70"/>
+                    <Label Content="Performance:" Width="93" Height="30" VerticalAlignment="Bottom"/>
+                    <Label Content="{Binding Performance}" Width="64"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal"  Height="30">
+                    <Label Content="Degree:" Width="60" Height="30" VerticalAlignment="Top"/>
+                    <Label Content="{Binding Student.Degree}" Width="90"/>
+                    <Label Content="Supervisor:" Width="77"/>
+                    <Label Content="{Binding Student.SupervisorName}" Width="146"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Supervisons : " Width="90"/>
+                    <Label Content="{Binding Staff.StudentNum}" Width="42"/>
+                    <Button x:Name="showName" DataContext="{Binding Staff.Student}" Margin="25,0,0,0" Height="20" Content="Show Name" Click="Button_Click_1"/>
+                </StackPanel>
+
+            </StackPanel>
+
+            <StackPanel x:Name="PublicationPanel" Orientation="Vertical" Grid.Column="2" Grid.Row="1" Margin="0,9,0,0" >
+                <Label Content="Pulications : " Margin="0,0,10,0" FontSize="20"/>
+                <StackPanel  Orientation="Horizontal">
+                    <Label Content="Year Range: " />
+                    <Label Content="Start" />
+                    <TextBox x:Name="T1" TextWrapping="Wrap"  TextChanged="T1_TextChanged"  VerticalAlignment="Center" Margin="10,0,0,0" Width="50"/>
+
+                    <Label Content="End" />
+                    <TextBox x:Name="T2" TextWrapping="Wrap" VerticalAlignment="Center" Margin="10,0,0,0" Width="50"/>
+                    <Button x:Name="Search" Content="Search"   Click="Button_Click_3"  Margin="20,0,0,0"/>
+                    <Button x:Name="Clear" Content="Clear" Click="Button_Click_4" Margin="20,0,0,0"/>
+
+                </StackPanel>
+                <ListView x:Name="listbox_Publication"  Margin="0,10,10,10" Height="125" ItemsSource="{Binding Publi}"  SelectionChanged="Listbox_Publication_SelectionChanged" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}" ScrollViewer.VerticalScrollBarVisibility="Auto"  >
+                    <ListView.View>
+                        <GridView >
+                            <GridView.ColumnHeaderContainerStyle>
+                                <Style TargetType="{x:Type GridViewColumnHeader}">
+                                    <Setter Property="HorizontalContentAlignment" Value="left"/>
+                                </Style>
+                            </GridView.ColumnHeaderContainerStyle>
+                            <GridViewColumn DisplayMemberBinding="{Binding Year}" Header="Year"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding PublicationTitle}" Header="Title" Width="auto"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <Label Content="Publication Details" Height="30"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LDoi" Content="DOI:"/>
+                    <Label Content="{Binding DOI}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LTitle" Content="Title:  "  VerticalAlignment="Top" />
+                    <TextBlock TextWrapping="Wrap" Width="310" Text="{Binding PublicationTitle}" VerticalAlignment="Top" Margin="0,5" HorizontalAlignment="Left" Foreground="Black"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LAuthors" Content="Authors:"/>
+                    <Label Content="{Binding Authors}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LPublicationYear" Content="Pulication year:"/>
+                    <Label Content="{Binding Year}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LType" Content="Type:"/>
+                    <Label Content="{Binding PublicationType}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LCites" Content="Cites: "/>
+                    <TextBlock Text="{Binding Cite_as}" TextWrapping="Wrap" Width="310" Margin="0,5" VerticalAlignment="Top" HorizontalAlignment="Left" Foreground="Black"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="LAvailiabilityDate" Content="Availability  Date:"/>
+                    <Label Content="{Binding AvailableDate}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Text="Publication age: "  Foreground="Black" Width="100" Margin="5"/>
+                    <TextBlock x:Name="PublicationAge" Text="{Binding PublicationAge}"  Foreground="Black" Margin="5"/>
+                    <TextBlock Text=" " />
+                    <TextBlock Text="days" Foreground="Black" Margin="5"/>
+
+                </StackPanel>
+            </StackPanel>
+            <ListBox x:Name="CumulitiveCount" ItemsSource="{Binding Pulist}" Grid.Column="1" Margin="319,372,75,285" Grid.Row="1"/>
+            <Image Margin="52,648,47,87" Source="/Assignment2;component/UTASLogo.jpg" Stretch="None" Grid.Row="1" RenderTransformOrigin="0.496,0.293"/>
+            <Image x:Name="Photo" Source="{Binding Path=Photo}" Grid.Column="1" HorizontalAlignment="Left" Height="178" Margin="319,10,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="174" RenderTransformOrigin="-0.2,-0.31"/>
+
+        </Grid>
+    </ScrollViewer>
+</Window>
+

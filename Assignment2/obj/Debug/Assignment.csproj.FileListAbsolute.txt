@@ -1,0 +1,372 @@
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.g.cs
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.baml
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.g.cs
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+F:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+F:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+F:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.baml
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+F:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+J:\Assignment 2\Assignment2\Assignment2\bin\Debug\MySql.Data.dll
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\App.baml
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Window1.g.cs
+J:\Assignment 2\Assignment2\Assignment2\obj\Debug\Window1.baml
+E:\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\App.g.cs
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\App.baml
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\yijiey\Desktop\2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\MainWindow.g.cs
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\App.g.cs
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\App.baml
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\MainWindow.baml
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\yijiey\Desktop\2\Assignment2\3\Assignment2\obj\Debug\Assignment2.pdb
+O:\506-Assignment2\3\Assignment2\bin\Debug\Assignment2.exe.config
+O:\506-Assignment2\3\Assignment2\bin\Debug\Assignment2.exe
+O:\506-Assignment2\3\Assignment2\bin\Debug\Assignment2.pdb
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+O:\506-Assignment2\3\Assignment2\obj\Debug\MainWindow.g.cs
+O:\506-Assignment2\3\Assignment2\obj\Debug\App.g.cs
+O:\506-Assignment2\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+O:\506-Assignment2\3\Assignment2\obj\Debug\App.baml
+O:\506-Assignment2\3\Assignment2\obj\Debug\MainWindow.baml
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment2.g.resources
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment2.exe
+O:\506-Assignment2\3\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\MainWindow.g.cs
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\App.g.cs
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\App.baml
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\MainWindow.baml
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\zidangg\Downloads\combine(1)\3\Assignment2\obj\Debug\Assignment2.pdb
+E:\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe.config
+E:\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe
+E:\C# Finally\3\Assignment2\bin\Debug\Assignment2.pdb
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\C# Finally\3\Assignment2\obj\Debug\MainWindow.g.cs
+E:\C# Finally\3\Assignment2\obj\Debug\App.g.cs
+E:\C# Finally\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+E:\C# Finally\3\Assignment2\obj\Debug\App.baml
+E:\C# Finally\3\Assignment2\obj\Debug\MainWindow.baml
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment2.g.resources
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment2.exe
+E:\C# Finally\3\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\MainWindow.g.cs
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\App.g.cs
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\App.baml
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\MainWindow.baml
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\zidangg\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\view\App.baml
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\xhuang9\Desktop\C# Finally\3\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\view\App.baml
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\xhuang9\Desktop\text\C# Finally\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\yijiey\Desktop\3\3\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\yijiey\Desktop\3\3\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\yijiey\Desktop\3\3\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\App.baml
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\SupervisionName.baml
+C:\Users\yijiey\Desktop\3\3\Assignment2\obj\Debug\view\SupervisionName.g.cs
+E:\ffff\Assignment2\bin\Debug\Assignment2.exe.config
+E:\ffff\Assignment2\bin\Debug\Assignment2.exe
+E:\ffff\Assignment2\bin\Debug\Assignment2.pdb
+E:\ffff\Assignment2\obj\Debug\view\SupervisionName.baml
+E:\ffff\Assignment2\obj\Debug\view\MainWindow.g.cs
+E:\ffff\Assignment2\obj\Debug\view\Usercontrol.g.cs
+E:\ffff\Assignment2\obj\Debug\view\SupervisionName.g.cs
+E:\ffff\Assignment2\obj\Debug\view\App.g.cs
+E:\ffff\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+E:\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+E:\ffff\Assignment2\obj\Debug\view\App.baml
+E:\ffff\Assignment2\obj\Debug\view\MainWindow.baml
+E:\ffff\Assignment2\obj\Debug\view\Usercontrol.baml
+E:\ffff\Assignment2\obj\Debug\Assignment2.g.resources
+E:\ffff\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\ffff\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\ffff\Assignment2\obj\Debug\Assignment2.exe
+E:\ffff\Assignment2\obj\Debug\Assignment2.pdb
+E:\ffff\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\zidangg\Desktop\ffff\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\zidangg\Desktop\ffff\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\zidangg\Desktop\ffff\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\SupervisionName.baml
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\MainWindow.g.cs
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\Usercontrol.g.cs
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\SupervisionName.g.cs
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\App.g.cs
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\App.baml
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\MainWindow.baml
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\view\Usercontrol.baml
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment2.g.resources
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\zidangg\Desktop\ffff\Assignment2\obj\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\bin\Debug\Assignment2.exe.config
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\bin\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\bin\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\SupervisionName.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\MainWindow.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\Usercontrol.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\SupervisionName.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\App.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\App.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\MainWindow.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\view\Usercontrol.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment2.g.resources
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assign2\ffff\Assignment2\obj\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\bin\Debug\Assignment2.exe.config
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\bin\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\bin\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\SupervisionName.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\MainWindow.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\Usercontrol.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\SupervisionName.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\App.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\App.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\MainWindow.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\view\Usercontrol.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment2.g.resources
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\ffff\Assignment2\obj\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.baml
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.g.resources
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assign2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.pdb
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.baml
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.g.cs
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.g.cs
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.baml
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.baml
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.baml
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.g.resources
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.exe
+D:\OneDrive\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.pdb
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.pdb
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.baml
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.g.cs
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.g.cs
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.baml
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.baml
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.baml
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.g.resources
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.exe
+D:\OneDrive\UTasMaster\2019 S2\KIT506\Assignment2\LIU\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.pdb
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.exe
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\bin\Debug\Assignment2.pdb
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.baml
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.g.cs
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.g.cs
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\SupervisionName.g.cs
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.g.cs
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\App.baml
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\MainWindow.baml
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\view\Usercontrol.baml
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.g.resources
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment.csproj.CopyComplete
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.exe
+D:\历史文件存档\学习资料\Assignment2GroupKIT506HbtF1100#2\Assignment2\obj\Debug\Assignment2.pdb
